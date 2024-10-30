@@ -3,6 +3,19 @@
   "version": "1.0.0",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/arafatkhairul/react-ifelsefy"
+  },
+  "keywords": [
+    "react",
+    "conditional",
+    "rendering",
+    "if-else",
+    "react-native"
+  ],
+  "author": "Arafat Islam Khairul",
+  "license": "MIT",
   "scripts": {
     "build": "tsc",
     "prepare": "npm run build"
